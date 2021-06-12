@@ -19,9 +19,9 @@ worksheets and an activity scheduler.
  We are doing an application for the wasil company -known for delivery of fuel-, the app intended to simplify the adminstration process
  of recieving customers orders and contacting drivers for delivery. 
 
-<img src="screenshots/wa1.jpg"  width="30%"/>   <img src="screenshots/wa2.jpg"  width="30%"/>
-<img src="screenshots/wa3.jpg"  width="30%"/>   <img src="screenshots/wa4.jpg"  width="30%"/>
-<img src="screenshots/wa5.jpg"  width="30%"/>   <img src="screenshots/wa6.jpg"  width="30%"/>
+<img src="screenshots/w1.jpg"  width="30%"/>   <img src="screenshots/w2.jpg"  width="30%"/>
+<img src="screenshots/w3.jpg"  width="30%"/>   <img src="screenshots/w4.jpg"  width="30%"/>
+<img src="screenshots/w5.jpg"  width="30%"/>   <img src="screenshots/w6.jpg"  width="30%"/>
 
 
 
