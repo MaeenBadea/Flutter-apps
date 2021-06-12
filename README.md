@@ -1,6 +1,6 @@
 # Flutter app Samples
 
-note: these apps will be published in the store very soon but they're currently not published.
+note: these apps aren't released yet but very soon they'll be.
 
 ## 1. Therapy
 
